@@ -1,4 +1,3 @@
-![](ui_snapshot.jpg)
 
 
 
